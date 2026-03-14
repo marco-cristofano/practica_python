@@ -1,9 +1,9 @@
 nombre = "Juan"
 apellido = "Castaño"
 edad = "21"
-provincia = "Tierra del Fuego"
+pais = "Argentina"
 
 print(f"Mi nombre es {nombre}")
 print(f"Mi apellido es {apellido}")
 print(f"Mi edad es {edad}")
-print(f"Mi provincia es {provincia}")
+print(f"Mi pais es {pais}")
