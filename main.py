@@ -2,6 +2,7 @@ nombre = "Juan"
 apellido = "Castaño"
 edad = "21"
 pais = "Argentina"
+provincia = "Buenos Aires"
 
 print(f"Mi nombre es {nombre}")
 print(f"Mi apellido es {apellido}")
